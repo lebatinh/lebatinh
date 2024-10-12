@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 I am currently using the language along with the database and architectural pattern as **Kotlin, Java, Android core, Sqlite, Firebase, MySql, MVVM**
-
 - 👨‍💻 All of my projects are available at [https://github.com/lebatinh](https://github.com/lebatinh)
+
+- 💬 I am currently using the language along with the database and architectural pattern as **Kotlin, Java, Android core, Sqlite, Firebase, MySql, MVVM**
 
 - 🌱 Along with that I also use libraries and frameworks like **Retrofit, Room, LiveData, Jetpack Compose, Coroutine + Flow**
 
