@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lebatinh.mobile.dev@gmail.com**
 
-- 📄 View my personal resume here and contact me if you need [https://www.topcv.vn/xem-cv/BVcADANRUwcBVABdVgMOVw0DVldRAVpaBVFWAQ6490?fbclid=IwY2xjawF3iPtleHRuA2FlbQIxMQABHaG8i1uK4BO1M3QJRAoMoR207XMovsyNlZIZqwpvXQgIr7FQoxfJCbgT_Q_aem_pxEv9cph_KA7WH56-1n2ow](https://www.topcv.vn/xem-cv/BVcADANRUwcBVABdVgMOVw0DVldRAVpaBVFWAQ6490?fbclid=IwY2xjawF3iPtleHRuA2FlbQIxMQABHaG8i1uK4BO1M3QJRAoMoR207XMovsyNlZIZqwpvXQgIr7FQoxfJCbgT_Q_aem_pxEv9cph_KA7WH56-1n2ow)
+- 📄 View my personal resume here and contact me if you need [https://drive.google.com/file/d/1xBFsChti39ua-lWcTFuG73AhyhZjRJ3q/view?usp=sharing](https://drive.google.com/file/d/1xBFsChti39ua-lWcTFuG73AhyhZjRJ3q/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm quite mysterious**
 
