@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 I am currently using the language along with the database and architectural pattern as **Kotlin, Java, Android core, Sqlite, Firebase, MySql, MVVM**
+- 💬 I am currently using the language along with the database and architectural pattern as **Kotlin, Java, Android core, Sqlite, Firebase, MySql, MVVM, Clean Architecture**
 
-- 🌱 Along with that I also use libraries and frameworks like **Retrofit, Room, LiveData, Jetpack Compose, Coroutine + Flow**
+- 🌱 Along with that I also use libraries and frameworks like **Retrofit, Room, Android Component, LiveData, Jetpack Library, Coroutine + Flow, Dagger-Hilt**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lebatinh](https://github.com/lebatinh)
 
 - 📫 How to reach me **lebatinh.mobile.dev@gmail.com**
 
 - 📄 View my personal resume here and contact me if you need [https://drive.google.com/file/d/1xBFsChti39ua-lWcTFuG73AhyhZjRJ3q/view?usp=sharing](https://drive.google.com/file/d/1xBFsChti39ua-lWcTFuG73AhyhZjRJ3q/view?usp=sharing)
-
-- ⚡ Fun fact **I think I'm quite mysterious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
